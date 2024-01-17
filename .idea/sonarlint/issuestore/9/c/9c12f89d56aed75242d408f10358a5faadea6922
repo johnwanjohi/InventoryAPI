@@ -1,0 +1,21 @@
+
+Z	php:S1131
+"@Remove the useless trailing whitespaces at the end of this line.(İò„Úúÿÿÿÿ
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(ûü‹Ìùÿÿÿÿ
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(İò„Úúÿÿÿÿ
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(¹Ë§„
+Z	php:S1131!"@Remove the useless trailing whitespaces at the end of this line.(¡è¾ûÿÿÿÿ
+Z	php:S1131E"@Remove the useless trailing whitespaces at the end of this line.(åÌÄœøÿÿÿÿ
+T	php:S1131F"@Remove the useless trailing whitespaces at the end of this line.(¶ÍĞ
+Z	php:S1131G"@Remove the useless trailing whitespaces at the end of this line.(–ç—íùÿÿÿÿ
+D	php:S1808"/Remove all space after the opening parenthesis.(Ä‚Â®
+D	php:S1808$"/Remove all space after the opening parenthesis.(Ä‚Â®
+iphp:S101"PRename class "subscontacts" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(–ÂÂ¹ùÿÿÿÿ
+M	php:S1784"8Explicitly mention the visibility of this method "post".(’ø®§
+Q	php:S1784"7Explicitly mention the visibility of this method "put".(ì¢é‰ùÿÿÿÿ
+O	php:S1784*":Explicitly mention the visibility of this method "getAll".(ığ»•
+P	php:S17847";Explicitly mention the visibility of this method "getById".(ÔîçÁ
+\	php:S1784C"BExplicitly mention the visibility of this method "getByForeignId".(²¼˜şÿÿÿÿ
+O	php:S1784Q":Explicitly mention the visibility of this method "delete".(æëí½
+b	php:S1784Y"HExplicitly mention the visibility of this method "deleteContactBySubID".(‰ßÂüÿÿÿÿ
+mphp:S117Y"TRename this parameter "$sub_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰ßÂüÿÿÿÿ

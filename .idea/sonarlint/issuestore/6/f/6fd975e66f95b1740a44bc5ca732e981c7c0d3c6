@@ -1,0 +1,27 @@
+
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(´óÒ«
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(Æ¯­ö
+U	php:S1131%"@Remove the useless trailing whitespaces at the end of this line.(ÕŸ
+U	php:S11310"@Remove the useless trailing whitespaces at the end of this line.(ÆÓ†æ
+U	php:S11311"@Remove the useless trailing whitespaces at the end of this line.(áö†
+U	php:S1131>"@Remove the useless trailing whitespaces at the end of this line.(Ø¿¶ş
+U	php:S1131?"@Remove the useless trailing whitespaces at the end of this line.(áö†
+Z	php:S1131@"@Remove the useless trailing whitespaces at the end of this line.(´ÿ“úÿÿÿÿ
+Z	php:S1131Q"@Remove the useless trailing whitespaces at the end of this line.(à‚šÍûÿÿÿÿ
+U	php:S1131R"@Remove the useless trailing whitespaces at the end of this line.(áö†
+Z	php:S1131S"@Remove the useless trailing whitespaces at the end of this line.(´ÿ“úÿÿÿÿ
+Z	php:S1131T"@Remove the useless trailing whitespaces at the end of this line.(âÿÑ’ıÿÿÿÿ
+dphp:S103M"KSplit this 131 characters long line (which is greater than 120 authorized).(û¥«©øÿÿÿÿ
+`php:S101"LRename class "contacts" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÒÉ—Ï
+M	php:S1784"8Explicitly mention the visibility of this method "post".(’ø®§
+Q	php:S1784"7Explicitly mention the visibility of this method "put".(ì¢é‰ùÿÿÿÿ
+O	php:S1784-":Explicitly mention the visibility of this method "getAll".(ığ»•
+P	php:S1784;";Explicitly mention the visibility of this method "getById".(ÔîçÁ
+X	php:S1784H"CExplicitly mention the visibility of this method "getByForeignIds".(ğÃä„
+O	php:S1784_":Explicitly mention the visibility of this method "delete".(æëí½
+c	php:S1784g"IExplicitly mention the visibility of this method "deleteContactBySiteID".(óÃ»úÿÿÿÿ
+b	php:S1784o"MExplicitly mention the visibility of this method "deleteContactByCustomerID".(¹ú¸À
+nphp:S117g"URename this parameter "$site_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(óÃ»úÿÿÿÿ
+mphp:S117o"YRename this parameter "$customer_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹ú¸À
+G	php:S1481L"-Remove this unused "$lastAnd" local variable.(¬µÏÎûÿÿÿÿ
+1	php:S2010L"Replace "or" with "||".(¬µÏÎûÿÿÿÿ

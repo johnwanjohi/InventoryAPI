@@ -1,0 +1,19 @@
+
+a	php:S1131:"@Remove the useless trailing whitespaces at the end of this line.(†Ûå¨üÿÿÿÿ8æò™Ş€1
+\	php:S1131>"@Remove the useless trailing whitespaces at the end of this line.(·¹°¤8èò™Ş€1
+a	php:S1131I"@Remove the useless trailing whitespaces at the end of this line.(Á›Óúøÿÿÿÿ8êò™Ş€1
+\	php:S1131M"@Remove the useless trailing whitespaces at the end of this line.(·¹°¤8ëò™Ş€1
+kphp:S103"KSplit this 182 characters long line (which is greater than 120 authorized).(ŠäÁùÿÿÿÿ8ìò™Ş€1
+iphp:S101"IRename class "users" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¹í¯Øüÿÿÿÿ8îò™Ş€1
+c	php:S1784"GExplicitly mention the visibility of this method "generateRandomToken".(ÂÆúÄ8ïò™Ş€1
+Z	php:S1784"9Explicitly mention the visibility of this method "login".(Â¬Àùÿÿÿÿ8ñò™Ş€1
+d	php:S1784,"CExplicitly mention the visibility of this method "checkIfLoggedIn".(Õêæ‘şÿÿÿÿ8òò™Ş€1
+T	php:S17847"8Explicitly mention the visibility of this method "post".(’ø®§8óò™Ş€1
+X	php:S1784F"7Explicitly mention the visibility of this method "put".(ì¢é‰ùÿÿÿÿ8õò™Ş€1
+V	php:S1784U":Explicitly mention the visibility of this method "getAll".(ığ»•8öò™Ş€1
+W	php:S1784_";Explicitly mention the visibility of this method "getById".(ÔîçÁ8øò™Ş€1
+uphp:S117"[Rename this local variable "$String" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(î·óH8àô™Ş€1
+G	php:S1481"+Remove this unused "$token" local variable.(ƒª˜ø8âô™Ş€1
+:php:S125"Remove this commented out code.( ßÃ8ãô™Ş€1
+:php:S125"Remove this commented out code.(û¯ëõ8äô™Ş€1
+?php:S125*"Remove this commented out code.(…ä½íşÿÿÿÿ8åô™Ş€1

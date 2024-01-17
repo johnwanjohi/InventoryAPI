@@ -1,0 +1,48 @@
+
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(ÌÄ™™üÿÿÿÿ
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(‘´‚¾
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(›Á£ìüÿÿÿÿ
+U	php:S1131!"@Remove the useless trailing whitespaces at the end of this line.(‘´‚¾
+U	php:S1131&"@Remove the useless trailing whitespaces at the end of this line.(ÊÖÜŞ
+U	php:S11315"@Remove the useless trailing whitespaces at the end of this line.(–¯«ş
+U	php:S1131D"@Remove the useless trailing whitespaces at the end of this line.(‚’Ÿ
+Z	php:S1131E"@Remove the useless trailing whitespaces at the end of this line.(ØĞ¯ãûÿÿÿÿ
+U	php:S1131G"@Remove the useless trailing whitespaces at the end of this line.(™úÿ
+U	php:S1131H"@Remove the useless trailing whitespaces at the end of this line.(ğ—ñÁ
+Z	php:S1131I"@Remove the useless trailing whitespaces at the end of this line.(õ’İˆüÿÿÿÿ
+Z	php:S1131Z"@Remove the useless trailing whitespaces at the end of this line.(üÃíüÿÿÿÿ
+Z	php:S1131["@Remove the useless trailing whitespaces at the end of this line.(ØĞ¯ãûÿÿÿÿ
+U	php:S1131]"@Remove the useless trailing whitespaces at the end of this line.(™úÿ
+U	php:S1131^"@Remove the useless trailing whitespaces at the end of this line.(ğ—ñÁ
+Z	php:S1131_"@Remove the useless trailing whitespaces at the end of this line.(õ’İˆüÿÿÿÿ
+Z	php:S1131q"@Remove the useless trailing whitespaces at the end of this line.(¡úÉùÿÿÿÿ
+Z	php:S1131r"@Remove the useless trailing whitespaces at the end of this line.(ù¬¤ûÿÿÿÿ
+Z	php:S1131t"@Remove the useless trailing whitespaces at the end of this line.(ãÕÆ‰úÿÿÿÿ
+U	php:S1131u"@Remove the useless trailing whitespaces at the end of this line.(ğ—ñÁ
+U	php:S1131v"@Remove the useless trailing whitespaces at the end of this line.(ŸüÆğ
+Z	php:S1131w"@Remove the useless trailing whitespaces at the end of this line.(ï›à˜úÿÿÿÿ
+U	php:S1131x"@Remove the useless trailing whitespaces at the end of this line.(ğÛˆÖ
+T	php:S1131y"@Remove the useless trailing whitespaces at the end of this line.(ÉĞ®y
+U	php:S1131z"@Remove the useless trailing whitespaces at the end of this line.(ÄÉªù
+[	php:S1131†"@Remove the useless trailing whitespaces at the end of this line.(ÒÌâ–øÿÿÿÿ
+U	php:S1131—"@Remove the useless trailing whitespaces at the end of this line.(ÖÓğD
+[	php:S1131™"@Remove the useless trailing whitespaces at the end of this line.(·Éşòûÿÿÿÿ
+V	php:S1131š"@Remove the useless trailing whitespaces at the end of this line.(îÿŸì
+_php:S103’"KSplit this 132 characters long line (which is greater than 120 authorized).(ÿ„ˆ
+`php:S103“"KSplit this 141 characters long line (which is greater than 120 authorized).(º¾Ú×
+ephp:S103”"KSplit this 131 characters long line (which is greater than 120 authorized).(Ü‹ªØıÿÿÿÿ
+_php:S103—"KSplit this 156 characters long line (which is greater than 120 authorized).(ÖÓğD
+iphp:S101"URename class "wh_supplierreturn" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(³­Ôæ
+M	php:S1784"8Explicitly mention the visibility of this method "post".(’ø®§
+Q	php:S1784"7Explicitly mention the visibility of this method "put".(ì¢é‰ùÿÿÿÿ
+O	php:S17841":Explicitly mention the visibility of this method "getAll".(ığ»•
+P	php:S1784?";Explicitly mention the visibility of this method "getById".(ÔîçÁ
+W	php:S1784Q"BExplicitly mention the visibility of this method "getByWHOrderId".(Á“ÒÃ
+a	php:S1784i"GExplicitly mention the visibility of this method "getTotalsReturnedId".(çÒ‚ùÿÿÿÿ
+P	php:S1784…":Explicitly mention the visibility of this method "delete".(æëí½
+Y	php:S1784"CExplicitly mention the visibility of this method "getByForeignIds".(ğÃä„
+}php:S1173"dRename this local variable "$wh_supplierreturn" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ëãıÿÿÿÿ
+}php:S117S"dRename this local variable "$wh_supplierreturn" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ëãıÿÿÿÿ
+}php:S117k"dRename this local variable "$wh_supplierreturn" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ëãıÿÿÿÿ
+~php:S117"dRename this local variable "$wh_supplierreturn" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ëãıÿÿÿÿ
+2	php:S2010‘"Replace "or" with "||".( ¹ò¶øÿÿÿÿ

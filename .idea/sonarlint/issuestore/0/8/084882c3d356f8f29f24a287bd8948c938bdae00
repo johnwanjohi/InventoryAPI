@@ -1,0 +1,14 @@
+
+\	php:S1131("@Remove the useless trailing whitespaces at the end of this line.(ø·—ù8ÿ÷²’Ğ1
+`php:S101"FRename class "db" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¦×Á|8€ø²’Ğ1
+\	php:S1784";Explicitly mention the visibility of this method "connect".(å»±«ıÿÿÿÿ8ø²’Ğ1
+S	php:S1784"7Explicitly mention the visibility of this method "sql".(ÇÿåÅ8ø²’Ğ1
+U	php:S1784"9Explicitly mention the visibility of this method "query".(§È›¯8ø²’Ğ1
+T	php:S1784":Explicitly mention the visibility of this method "update".(¦Ò~8‚ø²’Ğ1
+`	php:S1784"?Explicitly mention the visibility of this method "getInsertId".(¨é’úÿÿÿÿ8‚ø²’Ğ1
+]	php:S1784"<Explicitly mention the visibility of this method "getquery".(á™ËÁùÿÿÿÿ8„ø²’Ğ1
+]	php:S1784!"<Explicitly mention the visibility of this method "fetchAll".(¾€ÇÚüÿÿÿÿ8„ø²’Ğ1
+Z	php:S1784$"9Explicitly mention the visibility of this method "fetch".(­¶Şëúÿÿÿÿ8„ø²’Ğ1
+d	php:S1784'"CExplicitly mention the visibility of this method "getNumberOfRows".(öƒœ×úÿÿÿÿ8…ø²’Ğ1
+?php:S125"Remove this commented out code.(ö‹ÌÛÿÿÿÿÿ8…ø²’Ğ1
+:php:S125"Remove this commented out code.(óÈÎŒ8†ø²’Ğ1

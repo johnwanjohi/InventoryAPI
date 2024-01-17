@@ -1,0 +1,7 @@
+
+[	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(––48Œû²’Ğ1
+b	php:S1784"FExplicitly mention the visibility of this method "cryptoJsAesDecrypt".(ÁÛÆ8û²’Ğ1
+b	php:S1784$"FExplicitly mention the visibility of this method "cryptoJsAesEncrypt".(»›ƒ8û²’Ğ1
+b	php:S17844"AExplicitly mention the visibility of this method "getSecretKeys".(Ùôİ²øÿÿÿÿ8û²’Ğ1
+?php:S125"Remove this commented out code.(öÍ‘‡úÿÿÿÿ8û²’Ğ1
+?php:S125"Remove this commented out code.(Üâ¯¾ıÿÿÿÿ8û²’Ğ1

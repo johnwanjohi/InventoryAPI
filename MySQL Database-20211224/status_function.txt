@@ -1,0 +1,11 @@
+DROP FUNCTION IF EXISTS  `edgeworth_db`.`orderstatus`;
+CREATE FUNCTION  `edgeworth_db`.`orderstatus` (total_ordered_qty  FLOAT ,  total_received  FLOAT) 
+RETURNS VARCHAR(50)
+  RETURN CASE 
+    WHEN (total_received < total_ordered_qty AND total_received = 0) THEN 'Ordered'
+    WHEN (total_received < total_ordered_qty AND total_received <> 0) THEN 'In Progress'
+    WHEN (total_ordered_qty = total_received AND total_ordered_qty <> 0) THEN 'Completed'
+    WHEN (total_ordered_qty = 0) THEN 'Created' 
+    WHEN (total_received > total_ordered_qty) THEN 'Wrong Entries'
+    ELSE 'Created'
+  END;

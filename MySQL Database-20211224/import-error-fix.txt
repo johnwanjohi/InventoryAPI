@@ -1,0 +1,9 @@
+STEPS
+1. Open your SQL file in any text editor
+2. Use find and replace
+3. Find all “utf8mb4_0900_ai_ci”
+4. Replace it with “utf8mb4_general_ci“
+5. Save the  file
+6. Import the file again
+
+https://www.youtube.com/watch?v=jvhEyP58rkc

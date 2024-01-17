@@ -1,0 +1,25 @@
+
+Z	php:S1131
+"@Remove the useless trailing whitespaces at the end of this line.(İò„Úúÿÿÿÿ
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(šÜôñùÿÿÿÿ
+Z	php:S1131*"@Remove the useless trailing whitespaces at the end of this line.(İò„Úúÿÿÿÿ
+Z	php:S1131+"@Remove the useless trailing whitespaces at the end of this line.(¬ßƒÜùÿÿÿÿ
+U	php:S11315"@Remove the useless trailing whitespaces at the end of this line.(Øèâ«
+U	php:S1131O"@Remove the useless trailing whitespaces at the end of this line.(’ıˆ¥
+U	php:S1131`"@Remove the useless trailing whitespaces at the end of this line.(’ıˆ¥
+Z	php:S1131b"@Remove the useless trailing whitespaces at the end of this line.(òÿ€ëüÿÿÿÿ
+Z	php:S1131i"@Remove the useless trailing whitespaces at the end of this line.(ÒÌâ–øÿÿÿÿ
+Z	php:S1131j"@Remove the useless trailing whitespaces at the end of this line.(¥Ş‚ùÿÿÿÿ
+U	php:S1131l"@Remove the useless trailing whitespaces at the end of this line.(’ıˆ¥
+U	php:S1131m"@Remove the useless trailing whitespaces at the end of this line.(ì¡œÔ
+Z	php:S1131o"@Remove the useless trailing whitespaces at the end of this line.(ùÉù“ÿÿÿÿÿ
+Z	php:S1131{"@Remove the useless trailing whitespaces at the end of this line.(æÀö€øÿÿÿÿ
+D	php:S1808""/Remove all space after the opening parenthesis.(Ä‚Â®
+D	php:S1808C"/Remove all space after the opening parenthesis.(Ä‚Â®
+iphp:S101"PRename class "system_doors" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(şÃ¨Øüÿÿÿÿ
+M	php:S1784"8Explicitly mention the visibility of this method "post".(’ø®§
+Q	php:S1784("7Explicitly mention the visibility of this method "put".(ì¢é‰ùÿÿÿÿ
+O	php:S1784I":Explicitly mention the visibility of this method "getAll".(ığ»•
+\	php:S1784\"BExplicitly mention the visibility of this method "getSysDoorByID".(èç¼ÿÿÿÿÿ
+^	php:S1784h"DExplicitly mention the visibility of this method "getDoorsBySiteId".(“øÁıÿÿÿÿ
+O	php:S1784v":Explicitly mention the visibility of this method "delete".(æëí½

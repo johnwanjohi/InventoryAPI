@@ -1,0 +1,11 @@
+
+tphp:S100"TRename function "my_autoloader" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(èš‹„úÿÿÿÿ8ãû²’Ğ1
+Q	php:S6600"5Remove the parentheses from this "require_once" call.(ûş“¤8ãû²’Ğ1
+V	php:S6600
+"5Remove the parentheses from this "include_once" call.(ˆ•ƒ»şÿÿÿÿ8äû²’Ğ1
+?php:S125	"Remove this commented out code.(±èÂÂÿÿÿÿÿ8äû²’Ğ1
+:php:S125"Remove this commented out code.(–±Ù8äû²’Ğ1
+:php:S125"Remove this commented out code.(¿ÚˆÀ8åû²’Ğ1
+m	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ûş“¤8æû²’Ğ1
+r	php:S4833
+"QReplace "include_once" with namespace import mechanism through the "use" keyword.(ˆ•ƒ»şÿÿÿÿ8çû²’Ğ1

@@ -1,0 +1,42 @@
+
+Z	php:S1131
+"@Remove the useless trailing whitespaces at the end of this line.(İò„Úúÿÿÿÿ
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(à’… 
+Z	php:S1131*"@Remove the useless trailing whitespaces at the end of this line.(İò„Úúÿÿÿÿ
+Z	php:S1131+"@Remove the useless trailing whitespaces at the end of this line.(¯â½øûÿÿÿÿ
+U	php:S11315"@Remove the useless trailing whitespaces at the end of this line.(Øèâ«
+Z	php:S1131O"@Remove the useless trailing whitespaces at the end of this line.(÷†…øÿÿÿÿ
+Z	php:S1131f"@Remove the useless trailing whitespaces at the end of this line.(Ï²ÎÏûÿÿÿÿ
+Z	php:S1131m"@Remove the useless trailing whitespaces at the end of this line.(ÒÌâ–øÿÿÿÿ
+U	php:S1131n"@Remove the useless trailing whitespaces at the end of this line.(÷ûìÕ
+Z	php:S1131q"@Remove the useless trailing whitespaces at the end of this line.(£§Å›üÿÿÿÿ
+Z	php:S1131r"@Remove the useless trailing whitespaces at the end of this line.(÷†…øÿÿÿÿ
+U	php:S1131s"@Remove the useless trailing whitespaces at the end of this line.(™”ìÊ
+Z	php:S1131u"@Remove the useless trailing whitespaces at the end of this line.(„½¼ûÿÿÿÿ
+Z	php:S1131w"@Remove the useless trailing whitespaces at the end of this line.(¦İÈøùÿÿÿÿ
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(ÒÌâ–øÿÿÿÿ
+V	php:S1131€"@Remove the useless trailing whitespaces at the end of this line.(÷ûìÕ
+[	php:S1131„"@Remove the useless trailing whitespaces at the end of this line.(÷†…øÿÿÿÿ
+V	php:S1131…"@Remove the useless trailing whitespaces at the end of this line.(™”ìÊ
+[	php:S1131‡"@Remove the useless trailing whitespaces at the end of this line.(ÛÁ•ùÿÿÿÿÿ
+[	php:S1131‰"@Remove the useless trailing whitespaces at the end of this line.(¦İÈøùÿÿÿÿ
+[	php:S1131‘"@Remove the useless trailing whitespaces at the end of this line.(ÒÌâ–øÿÿÿÿ
+[	php:S1131’"@Remove the useless trailing whitespaces at the end of this line.(‡õàÏúÿÿÿÿ
+[	php:S1131•"@Remove the useless trailing whitespaces at the end of this line.(£§Å›üÿÿÿÿ
+[	php:S1131–"@Remove the useless trailing whitespaces at the end of this line.(÷†…øÿÿÿÿ
+V	php:S1131—"@Remove the useless trailing whitespaces at the end of this line.(™”ìÊ
+U	php:S1131š"@Remove the useless trailing whitespaces at the end of this line.(ßÄËq
+[	php:S1131œ"@Remove the useless trailing whitespaces at the end of this line.( ½Á‚úÿÿÿÿ
+[	php:S1131©"@Remove the useless trailing whitespaces at the end of this line.(æÀö€øÿÿÿÿ
+D	php:S1808""/Remove all space after the opening parenthesis.(Ä‚Â®
+D	php:S1808C"/Remove all space after the opening parenthesis.(Ä‚Â®
+E	php:S1808š"0Remove all space before the closing parenthesis.(ßÄËq
+fphp:S101"RRename class "system_devices" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(×ö±º
+M	php:S1784"8Explicitly mention the visibility of this method "post".(’ø®§
+Q	php:S1784("7Explicitly mention the visibility of this method "put".(ì¢é‰ùÿÿÿÿ
+O	php:S1784I":Explicitly mention the visibility of this method "getAll".(ığ»•
+Y	php:S1784\"DExplicitly mention the visibility of this method "getSysDeviceByID".(Ú·ê¬
+[	php:S1784l"FExplicitly mention the visibility of this method "getDevicesBySiteId".(À¤ß
+_	php:S1784~"JExplicitly mention the visibility of this method "getDevicesBySystemType".(úä»Ó
+i	php:S1784"SExplicitly mention the visibility of this method "getDevicesBySystemTypeAndSiteID".(•ÃîÏ
+P	php:S1784¤":Explicitly mention the visibility of this method "delete".(æëí½

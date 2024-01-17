@@ -1,0 +1,34 @@
+
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(€¦÷û
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(É´­­
+Z	php:S1131/"@Remove the useless trailing whitespaces at the end of this line.(Ğ„šûÿÿÿÿ
+Z	php:S1131z"@Remove the useless trailing whitespaces at the end of this line.(á¾£õşÿÿÿÿ
+U	php:S1131|"@Remove the useless trailing whitespaces at the end of this line.(™úÿ
+U	php:S1131}"@Remove the useless trailing whitespaces at the end of this line.(ğ—ñÁ
+pphp:S100\"WRename function "__getWhOrderById" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·”§¶ùÿÿÿÿ
+uphp:S100c"aRename function "__getAllWhOrdersByBranchId" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹‰€
+hphp:S101"ORename class "wh_vanstock" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Š×¾ùÿÿÿÿ
+M	php:S1784"8Explicitly mention the visibility of this method "post".(’ø®§
+Q	php:S1784#"7Explicitly mention the visibility of this method "put".(ì¢é‰ùÿÿÿÿ
+O	php:S1784=":Explicitly mention the visibility of this method "delete".(æëí½
+\	php:S1784F"GExplicitly mention the visibility of this method "deleteByWarehouseID".(”ÀÃ
+O	php:S1784R":Explicitly mention the visibility of this method "getAll".(ığ»•
+P	php:S1784l";Explicitly mention the visibility of this method "getById".(ÔîçÁ
+W	php:S1784t"BExplicitly mention the visibility of this method "getByWHOrderId".(Á“ÒÃ
+[	php:S1784ˆ"EExplicitly mention the visibility of this method "deleteByProductID".(¬äó¶
+rphp:S117?"^Rename this local variable "$wh_vanstock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(üæ²›
+nphp:S117F"ZRename this parameter "$warehouse_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(”ÀÃ
+wphp:S117J"^Rename this local variable "$wh_vanstock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ó£Ï×ıÿÿÿÿ
+rphp:S117T"^Rename this local variable "$wh_vanstock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Î›•Â
+ophp:S117V"[Rename this local variable "$wh_order" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·ñÑË
+rphp:S117\"YRename this parameter "$wh_order_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·”§¶ùÿÿÿÿ
+tphp:S117^"[Rename this local variable "$wh_order" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†á³Åùÿÿÿÿ
+nphp:S117c"ZRename this parameter "$warehouse_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹‰€
+rphp:S117e"^Rename this local variable "$wh_vanstock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Î›•Â
+ophp:S117g"[Rename this local variable "$wh_order" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·ñÑË
+rphp:S117n"^Rename this local variable "$wh_vanstock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Î›•Â
+rphp:S117v"^Rename this local variable "$wh_vanstock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Î›•Â
+pphp:S117w"\Rename this local variable "$sql_query" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(µÌÛ®
+v	php:S1488`"aImmediately return this expression instead of assigning it to the temporary variable "$wh_order".(¡õ›Ş
+A	php:S1481K"'Remove this unused "$k" local variable.(š€Î„şÿÿÿÿ
+9php:S125€"Remove this commented out code.(¦’õşÿÿÿÿ

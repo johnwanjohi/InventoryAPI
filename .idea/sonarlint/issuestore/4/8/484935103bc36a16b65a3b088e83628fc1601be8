@@ -1,0 +1,5 @@
+
+php:S115"aRename this constant "_SQL_SERVER" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ΑÒ§ώÿÿÿÿ8ξτ™ή€1
+ƒphp:S115"cRename this constant "_SQL_USERNAME" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Λ“‰μψÿÿÿÿ8οτ™ή€1
+ƒphp:S115"cRename this constant "_SQL_PASSWORD" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(σªή™ϊÿÿÿÿ8πτ™ή€1
+~php:S115"cRename this constant "_SQL_DATABASE" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ψ αΖ8ςτ™ή€1

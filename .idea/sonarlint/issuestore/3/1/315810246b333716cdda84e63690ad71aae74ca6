@@ -1,0 +1,13 @@
+
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(èĞ¦™úÿÿÿÿ
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(£´Ì¼úÿÿÿÿ
+ophp:S100;"VRename function "__getBranchById" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(úŸşÿÿÿÿ
+`php:S101"LRename class "branches" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(®ï¤—
+M	php:S1784	"8Explicitly mention the visibility of this method "post".(’ø®§
+Q	php:S1784"7Explicitly mention the visibility of this method "put".(ì¢é‰ùÿÿÿÿ
+O	php:S1784'":Explicitly mention the visibility of this method "delete".(æëí½
+O	php:S17841":Explicitly mention the visibility of this method "getAll".(ığ»•
+P	php:S1784C";Explicitly mention the visibility of this method "getById".(ÔîçÁ
+pphp:S117;"WRename this parameter "$branch_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(úŸşÿÿÿÿ
+y	php:S1488?"_Immediately return this expression instead of assigning it to the temporary variable "$branch".(¸¤Ú·ÿÿÿÿÿ
+8php:S125+"Remove this commented out code.(øşûáøÿÿÿÿ
